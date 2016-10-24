@@ -1,0 +1,19 @@
+snappy-sinksource.lo snappy-sinksource.o: snappy-sinksource.cc \
+  /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/gnu/stubs.h \
+  /usr/lib/gcc/x86_64-redhat-linux/3.4.5/include/stddef.h \
+  /usr/include/xlocale.h snappy-sinksource.h
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/3.4.5/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+snappy-sinksource.h:

@@ -1,0 +1,1 @@
+ident.o ident.o: ident.c

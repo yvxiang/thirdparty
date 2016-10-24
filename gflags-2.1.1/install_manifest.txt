@@ -1,0 +1,10 @@
+/home/work/test/bfs/thirdparty/lib/libgflags.a
+/home/work/test/bfs/thirdparty/lib/libgflags_nothreads.a
+/home/work/test/bfs/thirdparty/include/gflags/gflags.h
+/home/work/test/bfs/thirdparty/include/gflags/gflags_declare.h
+/home/work/test/bfs/thirdparty/include/gflags/gflags_completions.h
+/home/work/test/bfs/thirdparty/lib/cmake/gflags/gflags-config.cmake
+/home/work/test/bfs/thirdparty/lib/cmake/gflags/gflags-config-version.cmake
+/home/work/test/bfs/thirdparty/lib/cmake/gflags/gflags-export.cmake
+/home/work/test/bfs/thirdparty/lib/cmake/gflags/gflags-export-noconfig.cmake
+/home/work/test/bfs/thirdparty/bin/gflags_completions.sh

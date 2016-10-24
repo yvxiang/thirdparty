@@ -1,0 +1,4 @@
+x86_64/getcontext.lo x86_64/getcontext.o: x86_64/getcontext.S \
+  x86_64/ucontext_i.h
+
+x86_64/ucontext_i.h:

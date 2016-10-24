@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: ^([ 	]*#[ 	]*(include|import)[ 	]*)(KWSYS_HEADER)[ 	]*\(([^),]*)\) KWSYS_HEADER(%)=<cmsys/%>
+
+/home/work/test/bfs/thirdsrc/CMake-3.2.1/Source/kwsys/testDynload.c
+
