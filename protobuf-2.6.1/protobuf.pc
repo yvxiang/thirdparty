@@ -1,4 +1,4 @@
-prefix=/home/work/test/bfs/thirdparty
+prefix=/usr/local
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
