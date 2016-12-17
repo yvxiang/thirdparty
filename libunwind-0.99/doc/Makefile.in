@@ -224,8 +224,8 @@ EXTRA_DIST = NOTES libunwind.trans					\
 	_U_dyn_cancel.tex						\
 	$(man3_MANS)
 
-L2M = latex2man
-L2P = pdflatex
+L2M = echo
+L2P = echo
 L2M_CMD = $(L2M) -t $(srcdir)/libunwind.trans
 L2H_CMD = $(L2M) -H -t $(srcdir)/libunwind.trans
 all: all-am
